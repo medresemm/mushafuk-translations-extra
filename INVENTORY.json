@@ -1,0 +1,16 @@
+{
+  "host": "t1.mushafuk.online",
+  "languages": [
+    "bn",
+    "fa",
+    "id",
+    "ur"
+  ],
+  "t_mib": 836.3,
+  "t1_mib": 498.8,
+  "this_mib": 498.8,
+  "this_files": 52354,
+  "source_tag": "pre-split-all-langs",
+  "source_commit": "8172fad65dbf87a5f188b26640746bc1d6d33f48",
+  "main_backup_commit": "4ff10584719e3df530136b3c0e81f141910d1557"
+}
